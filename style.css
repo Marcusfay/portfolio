@@ -1,0 +1,13 @@
+a.menu-link:hover{
+text-decoration: underline;
+}
+
+h1{
+letter-spacing: 0.1em !important;
+text-transform: uppercase !important;
+}
+
+h4{
+text-transform: uppercase !important;
+
+}
