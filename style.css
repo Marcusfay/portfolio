@@ -1,3 +1,17 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://Marcusfay.dk/Astra-child/
+ Description:  Astra Child Theme
+ Author:       Marcus Fay
+ Author URI:   http://marcusfay.dk
+ Template:     astra
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
 a.menu-link:hover{
 text-decoration: underline;
 }
@@ -5,9 +19,9 @@ text-decoration: underline;
 h1{
 letter-spacing: 0.1em !important;
 text-transform: uppercase !important;
+font-size: 50px !important;
 }
 
 h4{
 text-transform: uppercase !important;
-
 }
